@@ -54,4 +54,6 @@
 | ---- |:----:|
 | Flowchart | https://drive.google.com/open?id=1sSGfVdd_Q7mjBkD97kcJbCbtJtMkJfWp |
 | ERD | https://drive.google.com/open?id=1k9t_nAq9BB2hFpT9PPBA_YbdfcRpWYDh |
-| Postman | https://drive.google.com/open?id=10r02pKi948lWUxxiHoILZWY1IUyvBHp_  |
+| Postman Collection | https://drive.google.com/open?id=1cy7idYGSrnlymH5VAhwc80MU_iHoury8 |
+| Postman Environment | https://drive.google.com/open?id=1nHlAAuDEq-hT99AQwy1h3ATJTfsRFJYb |
+
